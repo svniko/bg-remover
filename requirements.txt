@@ -1,9 +1,9 @@
-ben2==0.0.1
-numpy==2.4.6
-Pillow==12.2.0
-streamlit==1.50.0
-streamlit_image_comparison==0.0.4
-torch==2.6.0
+ben2
+numpy
+Pillow
+streamlit
+streamlit_image_comparison
+torch
 git+https://github.com/PramaLLC/BEN2.git
 
 
