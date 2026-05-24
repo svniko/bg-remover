@@ -4,6 +4,7 @@ Pillow
 streamlit
 streamlit_image_comparison
 torch
+opencv-python-headless
 git+https://github.com/PramaLLC/BEN2.git
 
 
